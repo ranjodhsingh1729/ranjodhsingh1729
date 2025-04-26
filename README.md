@@ -34,5 +34,9 @@
 <span><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranjodhsingh1729&include_all_commits=true&count_private=true&layout=compact" /></span>
 
 
+## 🏆 Github Trophies
+<span><img height=200 align="center" src="https://github-profile-trophy.vercel.app/?username=ranjodhsingh1729" /></span>
+
+
 ## 📫 Reach Out
 - **LinkedIn:** [linkedin.com/in/ranjodhsingh1729](https://linkedin.com/in/ranjodhsingh1729)
