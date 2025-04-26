@@ -5,7 +5,6 @@
 ## 🚀 About Me
 - Obsessed with low-level programming, Linux administration, and backend engineering.
 - Competitive programmer (Codeforces Specialist, CodeChef 3★) — 400+ problems solved.
-- I value performance, clean code, and understanding things under the hood.
 
 
 ## 🛠 Tech Stack
@@ -25,7 +24,6 @@
 
 ## 🎯 Currently Grinding
 - Pushing toward 2000+ on Codeforces and 2600+ on CodeChef.
-- Building larger, systems-focused projects.
 - Learning deep Linux internals and scalable backend architectures.
 
 
