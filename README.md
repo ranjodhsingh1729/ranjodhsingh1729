@@ -28,8 +28,8 @@
 
 
 ## 📊 GitHub Stats
-<span><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ranjodhsingh1729&show_icons=true&include_all_commits=true&count_private=true" /></span>
-<span><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranjodhsingh1729&include_all_commits=true&count_private=true&layout=compact" /></span>
+<span><img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=ranjodhsingh1729&show_icons=true&include_all_commits=true&count_private=true" /></span>
+<span><img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranjodhsingh1729&include_all_commits=true&count_private=true&layout=compact" /></span>
 
 
 ## 🏆 Github Trophies
