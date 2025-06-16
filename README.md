@@ -9,7 +9,8 @@
 
 ## 🛠 Tech Stack
 - **Languages:** C, C++, Python
-- **Backend:** Django, REST APIs
+- **Backend:** Flask, Django, REST APIs
+- **Machine Learning:** Numpy, Pandas, Seaborn, Matplotlib, Scikit-Learn, Pytorch
 - **Databases:** PostgreSQL, MongoDB
 - **Systems:** Linux (Debian, Fedora), Bash scripting, networking (TCP/IP, sockets)
 - **Tools:** Git, GitHub, Docker
