@@ -1,18 +1,18 @@
 # Ranjodh Singh
-**Computer Science undergrad @ NIT Jalandhar** | **Competitive Programmer** | **Systems Enthusiast** | **Backend Developer**
+**Computer Science Undergraduate At The National Institute of Technology Jalandhar (India)**
 
 
 ## 🚀 About Me
-- Obsessed with low-level programming, Linux administration, and backend engineering.
+- Obsessed with Machine Learning.
 - Competitive programmer (Codeforces Specialist, CodeChef 3★) — 400+ problems solved.
 
 
 ## 🛠 Tech Stack
 - **Languages:** C, C++, Python
 - **Backend:** Flask, Django, REST APIs
-- **Machine Learning:** Numpy, Pandas, Seaborn, Matplotlib, Scikit-Learn, Pytorch
-- **Databases:** PostgreSQL, MongoDB
-- **Systems:** Linux (Debian, Fedora), Bash scripting, networking (TCP/IP, sockets)
+- **Machine Learning:** Numpy, Pandas, Seaborn, Matplotlib, Scikit-Learn, mlpack, Pytorch
+- **Databases:** MongoDB, PostgreSQL
+- **Systems:** Linux (Debian, RedHat), Bash scripting, networking (TCP/IP, sockets)
 - **Tools:** Git, GitHub, Docker
 
 
