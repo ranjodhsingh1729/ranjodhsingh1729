@@ -4,38 +4,17 @@
 
 ## 🚀 About Me
 - Obsessed with Machine Learning.
-- Competitive programmer (Codeforces Specialist, CodeChef 3★) — 400+ problems solved.
-
-
-## 🛠 Tech Stack
-- **Languages:** C, C++, Python
-- **Backend:** Flask, Django, REST APIs
-- **Machine Learning:** Numpy, Pandas, Seaborn, Matplotlib, Scikit-Learn, mlpack, Pytorch
-- **Databases:** MongoDB, PostgreSQL
-- **Systems:** Linux (Debian, RedHat), Bash scripting, networking (TCP/IP, sockets)
-- **Tools:** Git, GitHub, Docker
-
-
-## 🧩 Projects
-- **ToyHttpServer:** Multithreaded HTTP server from scratch in C.
-- **JSONPrettify:** Fast JSON parser in pure C (no dependencies).
-
-*See pinned repos below for details.*
-
-
-## 🎯 Currently Grinding
-- Pushing toward 2000+ on Codeforces and 2600+ on CodeChef.
-- Learning deep Linux internals and scalable backend architectures.
+- Competitive programmer (Codeforces Specialist, CodeChef 3★) — 500+ problems solved.
 
 
 ## 📊 GitHub Stats
 <span><img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=ranjodhsingh1729&show_icons=true&include_all_commits=true&count_private=true" /></span>
-<span><img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranjodhsingh1729&include_all_commits=true&count_private=true&layout=compact" /></span>
+<!-- <span><img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranjodhsingh1729&include_all_commits=true&count_private=true&layout=compact" /></span> -->
 
-
+<!--
 ## 🏆 Github Trophies
 <span><img height=200 align="center" src="https://github-profile-trophy.vercel.app/?username=ranjodhsingh1729" /></span>
-
+-->
 
 ## 📫 Reach Out
 - **LinkedIn:** [linkedin.com/in/ranjodhsingh1729](https://linkedin.com/in/ranjodhsingh1729)
