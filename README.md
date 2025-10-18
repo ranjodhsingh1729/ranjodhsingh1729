@@ -1,12 +1,12 @@
 # Ranjodh Singh
-**CSE'27 @NITJ | Open Source | Competitive Programming | AI/ML**
+**CSE'27 @NITJ | AI/ML | Open Source | Competitive Programming**
 
 
 
 ## 🚀 About Me
+- Obsessed with Machine Learning.
 - Active Open Source Contributor.
 - Competitive programmer (Codeforces Specialist, CodeChef 3★).
-- Obsessed with Machine Learning.
 
 <!--
 ## 📊 GitHub Stats
