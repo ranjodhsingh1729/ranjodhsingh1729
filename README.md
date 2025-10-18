@@ -1,11 +1,12 @@
 # Ranjodh Singh
-**Computer Science Undergraduate At The National Institute of Technology Jalandhar (India)**
+**CSE'27 @NITJ | Open Source | Competitive Programming | AI/ML**
+
 
 
 ## 🚀 About Me
+- Active Open Source Contributor.
+- Competitive programmer (Codeforces Specialist, CodeChef 3★).
 - Obsessed with Machine Learning.
-- Competitive programmer (Codeforces Specialist, CodeChef 3★) — 500+ problems solved.
-
 
 <!--
 ## 📊 GitHub Stats
