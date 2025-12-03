@@ -1,5 +1,5 @@
 # Ranjodh Singh
-**CSE'27 @NITJ | AI/ML | Open Source | Competitive Programming**
+**ICPC Asia West Regionalist 2025 | CSE'27 @NITJ | AI/ML | Open Source | Competitive Programming**
 
 
 
