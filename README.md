@@ -9,6 +9,10 @@
 - Competitive programmer (Codeforces Specialist, CodeChef 3★).
 -->
 
+## 🏆 Badges
+[![@ranjodhsingh1729's Holopin board](https://holopin.me/ranjodhsingh1729)](https://holopin.io/@ranjodhsingh1729)
+
+
 <!--
 ## 📊 GitHub Stats
 <span><img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=ranjodhsingh1729&show_icons=true&include_all_commits=true&count_private=true" /></span>
